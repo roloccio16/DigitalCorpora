@@ -1,0 +1,18 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: email
+# Filename: ingebjorg.bin
+# Histogram-File-Version: 1.1
+n=119	fjp.mobil@aerogadget.net
+n=2	jackakpo@fsmail.net
+n=2	jorgen.birkler@ecs.ericsson.se
+n=2	kristina.ahlgren@ecs.ericsson.se
+n=2	lars.novak@ecs.ericsson.se
+n=2	postmaster@mx.domeneshop.no
+n=1	henric.andersson@ecs.ericsson.se
+n=1	jan.svensson@ecs.ericsson.se
+n=1	johan.westrom@ecs.ericsson.se
+n=1	magnus.olsson3@ecs.ericsson.se
+n=1	magnus.s.olsson@ecs.ericsson.se
+n=1	marek.pola@ecs.ericsson.se
+n=1	maria.rang@ecs.ericsson.se

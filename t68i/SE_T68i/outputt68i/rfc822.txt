@@ -1,0 +1,6 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: rfc822
+# Filename: ingebjorg.bin
+# Feature-File-Version: 1.1
+5109316	Subject: %s	>, \000%s, \000\012\000Cc: \000Subject: %s\012\000Date: %s\012\000IMPO

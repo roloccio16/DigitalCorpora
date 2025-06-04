@@ -1,0 +1,9 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: email
+# Filename: ingebjorg.bin
+# Histogram-File-Version: 1.1
+n=119	@aerogadget.net
+n=13	@ecs.ericsson.se
+n=2	@fsmail.net
+n=2	@mx.domeneshop.no

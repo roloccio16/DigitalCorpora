@@ -1,0 +1,9 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: url
+# Filename: ingebjorg.bin
+# Histogram-File-Version: 1.1
+n=1	http://	(utf16=1)
+n=1	http://mms/
+n=1	http://mobileinternet.ericsson.com/applications/highscore/upload.asp
+n=1	http://wap.esato.com/wap/#esato	(utf16=1)

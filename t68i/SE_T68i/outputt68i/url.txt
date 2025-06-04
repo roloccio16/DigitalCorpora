@@ -1,0 +1,9 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: url
+# Filename: ingebjorg.bin
+# Feature-File-Version: 1.1
+5118986	http://mobileinternet.ericsson.com/applications/highscore/upload.asp	-\000--\000%02d\000%03ld\000http://mobileinternet.ericsson.com/applications/highscore/upload.asp\000%s?v=%d&m=%s\00011
+5183406	http://	BrowserObj_Edit\000h\000t\000t\000p\000:\000/\000/\000\000\000\001\000m3\001\000n3\001\000o3\001\000
+6096018	http://wap.esato.com/wap/#esato	s\000\030\000\002\0000\0000\0007\000\030\000\036\000h\000t\000t\000p\000:\000/\000/\000w\000a\000p\000.\000e\000s\000a\000t\000o\000.\000c\000o\000m\000/\000w\000a\000p\000/\000#\000e\000s\000a\000t\000o\000\030\000\012\000K\000l\000i\000n\000g\000e\000
+6881299	http://mms/	\000\307z\000\000m\000\000\000\000\000\000\000\000\000\002http://mms/\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000
